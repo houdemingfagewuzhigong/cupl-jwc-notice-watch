@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" role="img" aria-label="CUPl JWC notice watcher architecture">
+  <rect width="980" height="420" fill="#f5f7fb"/>
+  <text x="48" y="64" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#17202a">CUPl JWC Notice Watch Architecture</text>
+  <g fill="#fff" stroke="#d8e0ec" stroke-width="2">
+    <rect x="52" y="118" width="178" height="110"/>
+    <rect x="282" y="118" width="178" height="110"/>
+    <rect x="512" y="118" width="178" height="110"/>
+    <rect x="742" y="118" width="178" height="110"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#17202a">
+    <text x="82" y="164" font-size="20" font-weight="700">CUPl JWC</text>
+    <text x="82" y="194" font-size="15" fill="#667085">public notices</text>
+    <text x="312" y="164" font-size="20" font-weight="700">scraper.py</text>
+    <text x="312" y="194" font-size="15" fill="#667085">challenge + parse</text>
+    <text x="542" y="164" font-size="20" font-weight="700">data store</text>
+    <text x="542" y="194" font-size="15" fill="#667085">JSON / CSV / history</text>
+    <text x="772" y="164" font-size="20" font-weight="700">dashboard</text>
+    <text x="772" y="194" font-size="15" fill="#667085">filter + export</text>
+  </g>
+  <g stroke="#1e4f9a" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M230 173 H282"/>
+    <path d="M460 173 H512"/>
+    <path d="M690 173 H742"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#1e4f9a"/></marker></defs>
+  <rect x="52" y="286" width="868" height="74" fill="#eef6f5" stroke="#cce3df"/>
+  <text x="82" y="332" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#0f766e">GitHub Actions runs daily, commits changed data files, and keeps historical snapshots.</text>
+</svg>
