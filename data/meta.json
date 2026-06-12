@@ -1,8 +1,8 @@
 {
   "site": "中国政法大学教务处",
   "base_url": "https://jwc.cupl.edu.cn",
-  "updated_at": "2026-06-09T00:17:14+00:00",
-  "total_notices": 141,
+  "updated_at": "2026-06-12T01:41:47+00:00",
+  "total_notices": 145,
   "sections": [
     "交流培养",
     "学籍管理",
@@ -14,5 +14,5 @@
     "考务管理",
     "质量监控"
   ],
-  "latest_date": "2026-06-08"
+  "latest_date": "2026-06-11"
 }
